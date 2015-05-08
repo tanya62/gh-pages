@@ -1,0 +1,39 @@
+header {background: #17EBD2; }
+header h1 , h2 {text-align: center;font-size: 25px}
+header figure {display: inline-block;}
+nav ul li {list-style: none;font-size: 15px}
+nav ul li {display: inline;
+        padding: 2px 8px; /*Separar el texto*/
+        margin:35px; /* Separar los botones */
+        background-color: gray; /* Color de fondo */}
+nav ul {text-align: center;} 
+
+nav ul li:hover {
+        background-color:#FBF5EF; /* Color de fondo sobre el boton */
+        cursor: pointer; /* cambiar el aspecto del puntero */
+}
+nav ul {/* Linea para delimitar la botonera */
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: #E4E4E4;}
+
+
+#overview {margin: 0px; margin-top: 0vh; margin-bottom: 0vh;}
+#overview {background-color:    #58FAAC}
+#portfolio {background-color:#58FAAC;}
+#welcome {background-color:##58FAAC;}
+#proposal {background-color:##58FAAC;}
+
+#container{display : inline-block;}
+
+footer {text-align: center;}
+footer {background-color: #0B3861;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;}
+
+
+
+
